@@ -57,3 +57,21 @@ The wireframe presented here is a **Low-Fidelity Wireframe**.
 - It focuses on structure and layout rather than visual design.  
 - It uses placeholders (like boxes for images and lines for text) instead of detailed content.  
 - Its main purpose is to outline functionality and navigation flow at an early stage.
+
+## Popular Wireframing Tools
+
+Designers and teams use various tools to create wireframes, ranging from simple sketching apps to advanced collaborative platforms. These tools help streamline the design process by making it easier to visualize ideas, collaborate, and iterate quickly.
+
+### Figma (Recommended)
+Figma is a powerful, browser-based design tool that has become one of the most popular options for wireframing.  
+
+**Key Features:**
+- **Real-time Collaboration**: Multiple team members can work on the same file simultaneously, similar to Google Docs.  
+- **Cross-Platform Accessibility**: Works directly in the browser and has desktop and mobile apps, making it accessible anywhere.  
+- **Versatile Design Capabilities**: Allows you to create low-fidelity wireframes, high-fidelity designs, and even interactive prototypes.  
+- **Component Reusability**: Lets you reuse elements like buttons and navigation bars to ensure consistency across pages.  
+- **Free Plan Available**: Offers a robust free tier, making it ideal for individuals and small teams.  
+
+**Why It’s Useful for Wireframing:**  
+Figma combines ease of use with powerful design features, making it perfect for both beginners and professional designers. Its collaboration features also ensure that stakeholders, designers, and developers stay aligned throughout the design process.
+
