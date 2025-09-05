@@ -34,3 +34,26 @@ Where text, images, videos, or other content elements are positioned.
 Interactive features that define how the product will work.  
 - **Example**: A login form with fields for username and password, plus a “Submit” button.  
 - **Contribution**: Demonstrates how users will interact with the system and highlights essential user actions.
+
+## Types of Wireframes
+
+Wireframes can vary in detail depending on the stage of the design process. The two most common types are:
+
+### Low-Fidelity Wireframes
+- **Description**: Simple, rough sketches that focus on the basic structure, layout, and placement of elements without visual details like colors, fonts, or images.  
+- **When Used**: Early in the design process to brainstorm ideas, test different layouts, and communicate general concepts quickly.  
+- **Example**: A black-and-white outline showing where the header, content blocks, and navigation would go.
+
+### High-Fidelity Wireframes
+- **Description**: Detailed and polished representations that closely resemble the final product. They often include real content, colors, typography, and interactive elements.  
+- **When Used**: Later in the design process to refine the user experience, test interactions, and present a near-final look to stakeholders.  
+- **Example**: A clickable prototype with images, icons, styled buttons, and realistic page flow.
+
+---
+
+## Identifying the Wireframe Type
+
+The wireframe presented here is a **Low-Fidelity Wireframe**.  
+- It focuses on structure and layout rather than visual design.  
+- It uses placeholders (like boxes for images and lines for text) instead of detailed content.  
+- Its main purpose is to outline functionality and navigation flow at an early stage.
