@@ -13,3 +13,24 @@ Wireframing plays a crucial role in the design process because it:
 
 By using wireframes, teams can make informed decisions early on, leading to more efficient workflows and better end products.
 
+## Key Elements of a Wireframe
+
+### 1. Layout Structure
+The overall arrangement of sections and components on a page.  
+- **Example**: A homepage layout may include a header at the top, a content area in the middle, and a footer at the bottom.  
+- **Contribution**: Provides a clear framework for organizing information consistently across different pages.
+
+### 2. Navigation
+Menus, links, or buttons that guide users through the application or website.  
+- **Example**: A top navigation bar with links to "Home," "About," "Services," and "Contact."  
+- **Contribution**: Ensures users can easily move between sections, improving usability and user flow.
+
+### 3. Content Placement
+Where text, images, videos, or other content elements are positioned.  
+- **Example**: Placing a hero image and headline at the top of a landing page to capture attention immediately.  
+- **Contribution**: Directs user focus to the most important information and supports effective communication.
+
+### 4. Functionality
+Interactive features that define how the product will work.  
+- **Example**: A login form with fields for username and password, plus a “Submit” button.  
+- **Contribution**: Demonstrates how users will interact with the system and highlights essential user actions.
